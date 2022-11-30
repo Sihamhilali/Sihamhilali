@@ -35,5 +35,11 @@
  <img width="40px" align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40px" align="left"/>  
  <img style="margin: 10px" src="https://user-images.githubusercontent.com/93329282/204889304-49859c25-49b1-4f98-a900-048ec928f03d.png" alt="Linux" width="40px" align="left"/> 
-
-
+ <img style="margin: 10px;height:40px;" src="https://user-images.githubusercontent.com/93329282/204889799-c76d127d-42f7-4c5b-a187-d1717e3da750.png" alt="Linux" width="40px" align="left"/> 
+<img style="margin: 10px;height:40px;" src="https://user-images.githubusercontent.com/93329282/204890282-a420d501-8183-4706-a3ef-2517b327057c.png" alt="Linux" width="40px" align="left"/> 
+<img style="margin: 10px;height:40px;" src="https://user-images.githubusercontent.com/93329282/204890467-ede30d1e-5a9a-40a0-be29-c80a2583374b.png" alt="Linux" width="40px" align="left"/>
+<img width="40px" align="left" src="https://user-images.githubusercontent.com/93329282/204890569-dac42f4e-9909-43a6-a370-fad9f44220e1.png" />
+<br/>
+ <br/>
+ <br/>
+<img width="40px" align="left" src="https://user-images.githubusercontent.com/93329282/204890781-d3526d7f-d3ad-4294-a4c0-328f12a010e8.png" />
