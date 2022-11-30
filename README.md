@@ -21,3 +21,19 @@
 <a href="https://twitter.com/Hilali5Siham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@darknig42667951" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/siham-elhilali-113056215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
+
+<h2 align="left">Languages and Tools:</h2>
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40px" align="left"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40px" align="left"/>
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40px" align="left"/>
+ <img width="40px" align="left" src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> 
+ <img width="40px" align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40px" align="left"/>  
+ <img style="margin: 10px" src="https://user-images.githubusercontent.com/93329282/204889304-49859c25-49b1-4f98-a900-048ec928f03d.png" alt="Linux" width="40px" align="left"/> 
+
+
