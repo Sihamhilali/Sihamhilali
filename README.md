@@ -1,4 +1,6 @@
+<p align="center">
 <a href=""><img src="https://badge.mediaplus.ma/binary/selhilal" alt="selhilal 42" align="center" style="left: 50%"/></a>
+ </p>
 
 ## 👇 Badges
 
@@ -11,3 +13,9 @@
 </p>
 
 ---
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/Hilali5Siham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@darknig42667951" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siham-elhilali-113056215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
